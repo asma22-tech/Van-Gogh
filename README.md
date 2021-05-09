@@ -1,4 +1,4 @@
-# trial_
+# Van Gogh Museum
 
 A new Flutter project.
 
