@@ -1,16 +1,5 @@
 # Van Gogh Museum
 
-A new Flutter project.
+A flutter mobile application to demostrte Van Gogh's famous paintings with details about them.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![van1](https://user-images.githubusercontent.com/62359513/120339786-b38bed00-c2f5-11eb-8c90-243a3e542f0e.PNG)
